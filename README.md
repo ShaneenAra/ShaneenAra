@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShaneenAra
 - 👀 I’m interested in reading, writing, drawing, and teaching.
-- 🌱 I’m currently learning Machine Learning, Neural Network, and Data Mining.
+- 🌱 I’m currently learning Machine Learning, Neural Network, Cyber Security and Data Mining.
 - 📫 How to reach me : mail: shaneenara88@gmail.com
 
 
