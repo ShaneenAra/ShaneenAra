@@ -31,7 +31,7 @@ Tech enthusiast with a knack for Python, HTML/CSS, and Java. Mastering OpenAI's 
 
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1rZGAooPUSzZpY92HWfal4C6rzCAXOz67/view?usp=sharing)**
 
-- ⚡ Fun fact **I love to discuss about [Psychology🚀](https://www.simplypsychology.org/whatispsychology.html) 🚀**
+- ⚡ Fun fact **I love to discuss about [Psychology🚀](https://www.simplypsychology.org/whatispsychology.html) 
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
