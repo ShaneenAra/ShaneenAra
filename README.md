@@ -1,6 +1,6 @@
 <!-- <div style="position: relative1"> -->
 <!-- <a href="https://ibb.co/9w37Q56"><img src="https://i.ibb.co/Gs3qzSy/Linkedin-Banner22.png" width="100%" height="270px" alt="Linkedin-Banner22" border="0"></a> -->
-<img src="https://media0.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=6c09b952yh1ynx1d071n6190eorj4910vl3syzyrl10twuej&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="100%" height="370px"/>
+<div align="center"><img src="https://media0.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=6c09b952yh1ynx1d071n6190eorj4910vl3syzyrl10twuej&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="60%" height="370px"/></div>
 
 <h1 style="position: absolute1" align="center">Hello 👋, I'm Shaneen Ara</h1> 
 <h3 align="center">A passionate Python Developer</h3>
@@ -31,7 +31,7 @@ Tech enthusiast with a knack for Python, HTML/CSS, and Java. Mastering OpenAI's 
 
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1rZGAooPUSzZpY92HWfal4C6rzCAXOz67/view?usp=sharing)**
 
-- ⚡ Fun fact-->I love to discuss about [Psychology🚀](https://www.simplypsychology.org/whatispsychology.html) 
+- ⚡ Fun fact **I love to discuss about [Psychology🚀](https://www.simplypsychology.org/whatispsychology.html) 
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
