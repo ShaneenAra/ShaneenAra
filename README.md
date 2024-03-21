@@ -63,9 +63,6 @@ Tech enthusiast with a knack for Python, HTML/CSS, and Java. Mastering OpenAI's 
 
 <!-- <div style="display: flex;"> -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nfridoy&theme=react) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nfridoy&theme=react)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nfridoy&theme=react) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nfridoy&theme=react&utcOffset=8)
 
 <!-- </div> -->
 
