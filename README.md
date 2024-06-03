@@ -82,6 +82,9 @@ Tech enthusiast with a knack for Python, HTML/CSS, and Java. Mastering OpenAI's 
 ### A Machine Learning Based Image to Object Detection and Audio Description for Blind People
 [Demo](https://ieeexplore.ieee.org/document/10441089)
 
+### Unmasking Toxicity: A Comprehensive Analysis of Hate Speech Detection in Banglish
+[Demo][(https://ieeexplore.ieee.org/document/10441089)](https://ieeexplore.ieee.org/abstract/document/10534362)
+
 ## 🔥Personal Projects
 ### Aerial Sentiment: Using BERT, CNN, and DNN, a Comparative Sentiment Analysis of Turkey Airlines Customer Feedback (Machine Learning -python)
 
