@@ -50,8 +50,8 @@ Tech enthusiast with a knack for Python, HTML/CSS, and Java. Mastering OpenAI's 
 <a href="https://www.youtube.com/channel/UC9qjnQlRQoGUH_XT_U8ECRw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UC9qjnQlRQoGUH_XT_U8ECRw" height="30" width="40" /></a>
 <a href="https://profiles.topcoder.com/shaneenara?edit-mode=onboardingCompleted" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="ShaneenAra" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/shaneenara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ShaneenAra" height="30" width="40" /></a>
-<a href="https://orcid.org/my-orcid" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/ShaneenAra/github-profile-readme-generator/master/src/images/icons/Social/orcid.svg" alt="ORCID" height="30" width="40" />
+<a href="https://orcid.org/my-orcid?orcid=0009-0008-1308-043X" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/orcid.svg" alt="ORCID" height="30" width="40" />
 </a>
 
 
