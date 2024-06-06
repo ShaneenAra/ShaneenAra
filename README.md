@@ -52,7 +52,7 @@ Tech enthusiast with a knack for Python, HTML/CSS, and Java. Mastering OpenAI's 
 <a href="https://www.kaggle.com/shaneenara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ShaneenAra" height="30" width="40" /></a>
 <a href="https://orcid.org/my-orcid?orcid=0009-0008-1308-043X" target="blank" style="display: flex; align-items: center;">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" height="30" width="40" />
-  <span style="margin-left: 5px;">ORCID</span>
+  <span style="margin-left: 5px;"></span>
 </a>
 
 
