@@ -73,6 +73,8 @@ Tech enthusiast with a knack for Python, HTML/CSS, and Java. Mastering OpenAI's 
 ### Unmasking Toxicity: A Comprehensive Analysis of Hate Speech Detection in Banglish
 [Demo](https://ieeexplore.ieee.org/abstract/document/10534362)
 
+### Analyzing Convergence and Accuracy of Load Flow Methods in the IEEE 39-Bus Power System
+
 ## 🔥Personal Projects
 ### Aerial Sentiment: Using BERT, CNN, and DNN, a Comparative Sentiment Analysis of Turkey Airlines Customer Feedback (Machine Learning -python)
 
