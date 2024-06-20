@@ -29,7 +29,7 @@ Tech enthusiast with a knack for Python, HTML/CSS, and Java. Mastering OpenAI's 
 
 - 📫 How to reach me **shaneenara88@gmail.com**
 
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1rZGAooPUSzZpY92HWfal4C6rzCAXOz67/view?usp=sharing)**
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1C5dMr3Nm2EM41zwnNe5TFg1zy3b3d_rC/view?usp=sharing)**
 
 - ⚡ Fun fact -->I love to discuss about [Psychology🚀](https://www.simplypsychology.org/whatispsychology.html) 
 
