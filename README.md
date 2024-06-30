@@ -77,7 +77,7 @@ Tech enthusiast with a knack for Python, HTML/CSS, and Java. Mastering OpenAI's 
 
 ## 🔥Personal Projects
 ### Aerial Sentiment: Using BERT, CNN, and DNN, a Comparative Sentiment Analysis of Turkey Airlines Customer Feedback (Machine Learning -python)
-
+[Demo](https://journal.hmjournals.com/index.php/JEET/article/view/4411)
 #### Features
 - Analyzing the feedback, suggest to go in that airline or not
 ### 	Unmasking Toxicity: A Comprehensive Analysis of Hate Speech Detection in Banglish (Machine Learning and Deep Learning -python)
