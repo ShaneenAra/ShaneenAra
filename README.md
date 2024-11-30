@@ -2,7 +2,7 @@
 <!-- <a href="https://ibb.co/9w37Q56"><img src="https://i.ibb.co/Gs3qzSy/Linkedin-Banner22.png" width="100%" height="270px" alt="Linkedin-Banner22" border="0"></a> -->
 <div align="center"><img src="https://media0.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=6c09b952yh1ynx1d071n6190eorj4910vl3syzyrl10twuej&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="60%" height="370px"/></div>
 
-<h1 style="position: absolute1" align="center">Hello 👋, I'm Shaneen Ara</h1> 
+<h1 style="position: absolute1" align="center">Hello 👋, I am Shaneen Ara</h1> 
 <h3 align="center">A passionate Python Developer</h3>
 <p align="center">
 
