@@ -17,7 +17,7 @@ Tech enthusiast with a knack for Python, HTML/CSS, and Java. Mastering OpenAI's 
 
 <!-- <p align="left"> <a href="https://twitter.com/nfridoy" target="blank"><img src="https://img.shields.io/twitter/follow/nfridoy?logo=twitter&style=for-the-badge" alt="nfridoy" /></a> </p> -->
 
-- 🔭 I’m currently working on "Detecting Cancer in Gastrointestinal Endoscopy"
+- 🔭 I’m currently working on "Detecting Cancer in Gastrointestinal Endoscopy" and "Data Annotation" with "Quantigo AI".
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, Natural Language Processing, Artificial Intelligence**
 
